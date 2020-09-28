@@ -55,14 +55,20 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-h1 {
+h1{
+   padding-bottom:40px;
+   font-size:40px;
+   
+}
+
+h2 {
   font-size:100px;
   padding-top:20px;
 }
 
 div.maintenancebox {
   background-color:white;
-  padding-top:100px;
+  padding-top:60px;
   border-top:2px solid grey;
   padding-bottom:100px;
   border-bottom:2px solid grey;
@@ -85,7 +91,7 @@ p {
 
 }
 
-h2 {
+h3 {
   padding: 30px;
 }
 
